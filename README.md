@@ -32,15 +32,15 @@ The application also includes free and pro plan sections, workout details, meal 
 
 ### App Onboarding & BMI Flow
 
-![Body Aim Screens 1](assets/body-aim-screens-1.png)
+![Body Aim Screens 1](body-aim-screens-1.png)
 
 ### Plans & Settings Screens
 
-![Body Aim Screens 2](assets/body-aim-screens-2.png)
+![Body Aim Screens 2](body-aim-screens-2.png)
 
 ### Workout, Meal & Exercise Detail Screens
 
-![Body Aim Screens 3](assets/body-aim-screens-3.png)
+![Body Aim Screens 3](body-aim-screens-3.png)
 
 ---
 
